@@ -1,3 +1,1 @@
 # git-hooks-lab
-.
-.
